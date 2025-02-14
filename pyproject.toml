@@ -1,0 +1,10 @@
+[project]
+name = "sgs-redis"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pip>=25.0.1",
+    "redis>=5.2.1",
+]
